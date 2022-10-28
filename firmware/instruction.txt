@@ -1,0 +1,11 @@
+1. copy lib into the folder of the device you want to use
+2. copy config template to the folder and edit it. rename it to config.h
+
+
+All devices use PN8150 NFC module
+
+device types:
+teensy: Teensy 4.0 with i2c IO expander and USB Serial connection to Raspi.
+coffee: a plug in betwwen device for a coffee grinder. Measures milling time from mazza superjolly and replays it to the mill/motor relay if authentificated.
+coffe_hb: a retrofit control module for a coffe grinder. generates mill on/off signal with timing from database. 3 inputs for small/big coffee and 250ms extra.
+spezispezl_LC: a low cost version of vending machine. Just place it on your fridge and let people choose what they have taken on trust base. Support shopping cart mode, number of product input buttons and cart places can be edited easily.

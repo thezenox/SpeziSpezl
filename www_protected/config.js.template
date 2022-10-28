@@ -1,0 +1,8 @@
+var basic_user = 'user';
+var basic_password = '';
+
+const api = "https://domain.de/api";
+const domain = "https://domain.de";
+const product_url = "https://domain.de/vending/products";
+
+const devicename = 'vending1';

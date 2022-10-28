@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vending/pizza/static/css/main.9319d382.css",
+    "main.js": "/vending/pizza/static/js/main.ccdcec09.js",
+    "static/js/787.51f462cb.chunk.js": "/vending/pizza/static/js/787.51f462cb.chunk.js",
+    "static/media/bg.jpg": "/vending/pizza/static/media/bg.09d6d9d2d026c4da8dac.jpg",
+    "index.html": "/vending/pizza/index.html",
+    "main.9319d382.css.map": "/vending/pizza/static/css/main.9319d382.css.map",
+    "main.ccdcec09.js.map": "/vending/pizza/static/js/main.ccdcec09.js.map",
+    "787.51f462cb.chunk.js.map": "/vending/pizza/static/js/787.51f462cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9319d382.css",
+    "static/js/main.ccdcec09.js"
+  ]
+}
